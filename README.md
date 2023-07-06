@@ -22,6 +22,7 @@ The multimeter is capable of several modes of operation, each of which is design
 
 * **Noise**: The multimeter can measure the ambient noise in the room, ranging from 0 dB to 180 dB with an accuracy of at least 0.1dB. The operation of this mode needs to be improved.
 
+## Circuit
 
-A general circuit diagrame can be viewed below:
+A general circuit diagram can be viewed below:
 ![Multimeter Circuit Diagram](./docs/Multimeter.png)
